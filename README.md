@@ -9,6 +9,7 @@ Debian, Ubuntu
 # License and Author
 
 Author:: Jacques Fuentes (<jpfuentes2@gmail.com>)
+
 Copyright:: 2009-2011, Jacques Fuentes
 
 Licensed under the Apache License, Version 2.0 (the "License");
